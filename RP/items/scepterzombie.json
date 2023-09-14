@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "groupmountain:scepter_zombie",
+            "category": "Equipment"
+        },
+        "components": {
+            "minecraft:icon": "scepter_zombie",
+            "minecraft:render_offsets": "miscellaneous"
+        }
+    }
+}
